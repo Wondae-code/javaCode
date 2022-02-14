@@ -1,6 +1,3 @@
-package SSAFY;
-
-
 // 아래부터 올라가는 방법
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

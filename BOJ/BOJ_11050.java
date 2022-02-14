@@ -3,7 +3,7 @@ package SSAFY;
 import java.util.Scanner;
 
 // 이항분포 테스트
-public class Main {
+public class BOJ_11050 {
     public static void main(String[] args) {
         // nCt = n!/((n-t)!*t!)
         Scanner sc = new Scanner(System.in);

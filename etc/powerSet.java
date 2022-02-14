@@ -1,5 +1,3 @@
-package DailyCheck;
-
 import java.util.Scanner;
 
 public class powerSet {
