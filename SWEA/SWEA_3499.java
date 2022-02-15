@@ -1,5 +1,3 @@
-package SSAFY;
-
 import java.util.*;
 
 public class SWEA_3499 {

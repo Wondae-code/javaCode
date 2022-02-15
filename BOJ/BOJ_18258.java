@@ -12,12 +12,24 @@ public class BOJ_18258 {
         for (int i = 0; i < N; i++) {
             String[] command = br.readLine().split(" ");
             switch (command[0]) {
-                case "push" -> Q.push(Integer.parseInt(command[1]));
-                case "pop" -> sb.append(Q.pop() + "\n");
-                case "empty" -> sb.append(Q.empty() + "\n");
-                case "size" -> sb.append(Q.size() + "\n");
-                case "front" -> sb.append(Q.front() + "\n");
-                case "back" -> sb.append(Q.back() + "\n");
+                case "push":
+                    Q.push(Integer.parseInt(command[1]));
+                    break;
+                case "pop":
+                    sb.append(Q.pop()).append("\n");
+                    break;
+                case "empty":
+                    sb.append(Q.empty()).append("\n");
+                    break;
+                case "size":
+                    sb.append(Q.size()).append("\n");
+                    break;
+                case "front":
+                    sb.append(Q.front()).append("\n");
+                    break;
+                case "back":
+                    sb.append(Q.back()).append("\n");
+                    break;
             }
         }
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

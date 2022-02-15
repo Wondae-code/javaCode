@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/JO" isTestSource="false" packagePrefix="SSAFY" />
       <sourceFolder url="file://$MODULE_DIR$/SWEA" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/etc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/unsolved" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
