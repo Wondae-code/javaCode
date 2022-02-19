@@ -34,11 +34,13 @@ public class BOJ_14620 {
 
     static class Point implements Comparable<Point>{
         int r, c, val;
+        boolean[] avail;
 
         public Point(int r, int c, int val) {
             this.r = r;
             this.c = c;
             this.val = val;
+            avail = new boolean[4];
         }
 
         @Override
@@ -68,6 +70,7 @@ public class BOJ_14620 {
                     // 모서리 체크
                     if(nr >= 0 && nr < N && nc >= 0 && nc < N){
                         temp[i*N + j].val += map[nr][nc];
+                        temp[i*N + j].avail[d] = true;
                     }
                 }
             }
