@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/Solution11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/Solution13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/Solution21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/Solution22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/Solution32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/Solution42.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/2022_02_20_2_09_PM__________.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/2022_02_20_2_09_PM__________.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsolved/BOJ_14620.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/BOJ_14620.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/IM_practice/IM_practice03.java" beforeDir="false" afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/etc/IM_practice/IM_practice05.java" beforeDir="false" afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,21 +49,7 @@
       <recent name="SSAFY" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.IM_practice06">
-    <configuration name="BOJ_14620" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_14620" />
-      <module name="javaCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IM_practice01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice01" />
-      <module name="javaCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.IM_practice03">
     <configuration name="IM_practice02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice02" />
       <module name="javaCode" />
@@ -98,6 +76,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IM_practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice04" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IM_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IM_practice05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice05" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IM_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IM_practice06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice06" />
       <module name="javaCode" />
@@ -113,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.IM_practice06" />
         <item itemvalue="애플리케이션.IM_practice03" />
+        <item itemvalue="애플리케이션.IM_practice04" />
+        <item itemvalue="애플리케이션.IM_practice05" />
+        <item itemvalue="애플리케이션.IM_practice06" />
         <item itemvalue="애플리케이션.IM_practice02" />
-        <item itemvalue="애플리케이션.IM_practice01" />
-        <item itemvalue="애플리케이션.BOJ_14620" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +134,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645334058843</updated>
       <workItem from="1645334060558" duration="10516000" />
+      <workItem from="1645352917825" duration="6688000" />
     </task>
     <servers />
   </component>
@@ -159,11 +164,6 @@
           <url>file://$PROJECT_DIR$/etc/IM_practice/IM_practice02.java</url>
           <line>30</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/etc/IM_practice/IM_practice03.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

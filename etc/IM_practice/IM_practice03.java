@@ -5,71 +5,53 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class IM_practice03 {
-    static int[][] map, commands;
+    static boolean[][] map;
+    static int[][] dir = {{0, 0}, {1, 0}, {0, 1}};
 
     public static void main(String[] args) throws FileNotFoundException {
         System.setIn(new FileInputStream("./inputs/Solution21.txt"));
         Scanner sc = new Scanner(System.in);
 
         int T = sc.nextInt();
-        for (int test_case = 1; test_case <= T; test_case++) {
+        outer : for (int test_case = 1; test_case <= T; test_case++) {
             int size = sc.nextInt();
-            int numCom = sc.nextInt();
-            map = new int[size][size];
-            commands = new int[numCom+1][3]; // r, c, command
-            int Ans = 0;
-            // 값 받기
-            for (int i = 1; i <= numCom; i++) {
-                for (int c = 0; c < 3; c++) {
-                    commands[i][c] = sc.nextInt();
-                }
+            int num = sc.nextInt();
+            map = new boolean[size][size];
+            // 0 : row, 1 : col, 2 : direction
+            int[][] striders = new int[num][3];
+            for (int i = 0; i < num; i++) {
+                striders[i][0] = sc.nextInt();
+                striders[i][1] = sc.nextInt();
+                striders[i][2] = sc.nextInt();
             }
-            // 찾기
-            Label : for (int n = 1; n <= commands.length; n++) {
-                // 시작점이 뛰었던 자리인지 확인
-                int stride = 3;
-                if(map[commands[n][0]][commands[n][1]] != 0){
-                    Ans = map[commands[n][0]][commands[n][1]];
-                    break;
-                }else{ // 뛴 자리가 아닌 경우
-                    map[commands[n][0]][commands[n][1]] = n;
-                    if(commands[n][2] == 1){ // 아래쪽
-                        for (int i = 3; i > 0; i--) {
-                            int nr = commands[n][0] + i;
-                            // 모서리 체크
-                            if(nr >= size){ // 넘는 경우
-                                break;
-                            }else{ // 안 넘는 경우
-                                // 겹치는 경우
-                                if(map[nr][commands[n][1]] != 0){
-                                    Ans = map[nr][commands[n][1]];
-                                    break Label;
-                                }else{
-                                    map[nr][commands[n][1]] = n;
-                                }
-                            }
+
+            for (int i = 0; i < num; i++) {
+                int nr = striders[i][0];
+                int nc = striders[i][1];
+                int d = striders[i][2];
+
+                if(map[nr][nc]){
+                    System.out.printf("#%d %d\n", test_case, i+1);
+                    continue outer;
+                }
+
+
+                for (int t = 3; t > 0; t--) {
+                    nr += dir[d][0] * t;
+                    nc += dir[d][1] * t;
+                    if(nr >= 0 && nr < size && nc >= 0 && nc < size){
+                        if(!map[nr][nc]){
+                            map[nr][nc] = true;
+                        }else{
+                            System.out.printf("#%d %d\n", test_case, i+1);
+                            continue outer;
                         }
-                    }else{ // 오른쪽
-                        for (int i = 3; i > 0; i--) {
-                            int nc = commands[n][1] + i;
-                            // 모서리 체크
-                            if(nc >= size){ // 넘는 경우
-                                break;
-                            }else{ // 안 넘는 경우
-                                // 겹치는 경우
-                                if(map[commands[n][0]][nc] != 0){
-                                    Ans = map[commands[n][0]][nc];
-                                    break Label;
-                                }else{
-                                    map[commands[n][0]][nc] = n;
-                                }
-                            }
-                        }
+                    }else{
+                        break;
                     }
                 }
             }
-
-            System.out.printf("#%d %d\n", test_case, Ans);
+            System.out.printf("#%d %d\n", test_case, 0);
         }
     }
 }
