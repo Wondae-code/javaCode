@@ -1,4 +1,4 @@
-/*
+package SSAFY;/*
 접근 방법
 1. 전체를 돌아다니며 각 칸의 근처 칸 비용을 계산 후 배열에 담고 정렬 후 가장 작은 3값부터 검색
 
@@ -8,6 +8,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
+import java.util.Queue;
 
 public class BOJ_14620 {
     static int[][] map;
@@ -28,10 +29,12 @@ public class BOJ_14620 {
         }
         // 꽃이 다 필 수 있는 칸들의 값들을 저장
         values = scan();
+        // val 순서로 정렬
+        Collections.sort(values);
 
         // 안 겹치면서 최소값 찾기
         int Ans = Integer.MAX_VALUE;
-        for (int i = N; i >= 2; i--) {
+        for (int i = values.size() - 1; i >= 2; i--) {
             for (int j = i - 1; j >=  1; j--) {
                 for (int k = j - 1; k >= 0; k--) {
                     if(check(i,j) && check(j, k) && check(k, i)){
@@ -137,3 +140,4 @@ public class BOJ_14620 {
         }
     }
 }
+
