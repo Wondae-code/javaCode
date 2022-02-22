@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/2022_02_20_2_09_PM__________.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/2022_02_20_2_09_PM__________.xml" afterDir="false" />
+    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="IM solved">
+      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_2178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA/SWEA_1238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SWEA/SWEA_7465.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/IM_TEST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_16234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/JO_1863.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/IM_practice/IM_practice03.java" beforeDir="false" afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/etc/IM_practice/IM_practice05.java" beforeDir="false" afterPath="$PROJECT_DIR$/etc/IM_practice/IM_practice05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsolved/SWEA_3234.java" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/SWEA_3234.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,88 +51,60 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/inputs" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/inputs" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="SSAFY" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.IM_practice03">
-    <configuration name="IM_practice02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice02" />
+  <component name="RunManager" selected="애플리케이션.SWEA_3234">
+    <configuration name="BOJ_2178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_2178" />
       <module name="javaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IM_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IM_practice03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice03" />
+    <configuration name="JO_1863" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JO_1863" />
       <module name="javaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IM_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IM_practice04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice04" />
+    <configuration name="SWEA_1238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_1238" />
       <module name="javaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IM_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IM_practice05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice05" />
+    <configuration name="SWEA_3234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_3234" />
       <module name="javaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IM_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IM_practice06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IM_practice.IM_practice06" />
+    <configuration name="SWEA_7465" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_7465" />
       <module name="javaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IM_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.IM_practice03" />
-        <item itemvalue="애플리케이션.IM_practice04" />
-        <item itemvalue="애플리케이션.IM_practice05" />
-        <item itemvalue="애플리케이션.IM_practice06" />
-        <item itemvalue="애플리케이션.IM_practice02" />
+        <item itemvalue="애플리케이션.SWEA_3234" />
+        <item itemvalue="애플리케이션.SWEA_7465" />
+        <item itemvalue="애플리케이션.JO_1863" />
+        <item itemvalue="애플리케이션.BOJ_2178" />
+        <item itemvalue="애플리케이션.SWEA_1238" />
       </list>
     </recent_temporary>
   </component>
@@ -134,8 +117,18 @@
       <option name="presentableId" value="Default" />
       <updated>1645334058843</updated>
       <workItem from="1645334060558" duration="10516000" />
-      <workItem from="1645352917825" duration="6688000" />
+      <workItem from="1645352917825" duration="6710000" />
+      <workItem from="1645414769289" duration="21658000" />
+      <workItem from="1645504346479" duration="14589000" />
     </task>
+    <task id="LOCAL-00001" summary="IM solved">
+      <created>1645359666328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645359666329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +145,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="IM solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="IM solved" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -165,8 +162,47 @@
           <line>30</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/etc/IM_TEST.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SWEA/SWEA_1238.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_2178.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/JO_1863.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SWEA/SWEA_7465.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="37" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="SWEA_1238$Node" memberName="depth" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="map[start]" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaCode$BOJ_14620.ic" NAME="BOJ_14620 커버리지 결과" MODIFIED="1645252075468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
