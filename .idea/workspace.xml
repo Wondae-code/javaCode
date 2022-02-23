@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="IM solved">
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_2178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/SWEA_1238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWEA/SWEA_7465.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/etc/IM_TEST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_16234.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/JO_1863.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_10026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1197_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_15686.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsolved/SWEA_3234.java" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/SWEA_3234.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,27 +55,34 @@
       <recent name="$PROJECT_DIR$/inputs" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
       <recent name="SSAFY" />
+      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.SWEA_3234">
-    <configuration name="BOJ_2178" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_2178" />
+  <component name="RunManager" selected="애플리케이션.BOJ_10026">
+    <configuration name="BOJ_10026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_10026" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JO_1863" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JO_1863" />
+    <configuration name="BOJ_1197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_1197" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_1238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_1238" />
+    <configuration name="BOJ_1197_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_1197_2" />
+      <module name="javaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ_15686" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_15686" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,20 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_7465" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_7465" />
-      <module name="javaCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BOJ_10026" />
+        <item itemvalue="애플리케이션.BOJ_15686" />
+        <item itemvalue="애플리케이션.BOJ_1197_2" />
+        <item itemvalue="애플리케이션.BOJ_1197" />
         <item itemvalue="애플리케이션.SWEA_3234" />
-        <item itemvalue="애플리케이션.SWEA_7465" />
-        <item itemvalue="애플리케이션.JO_1863" />
-        <item itemvalue="애플리케이션.BOJ_2178" />
-        <item itemvalue="애플리케이션.SWEA_1238" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +117,7 @@
       <workItem from="1645352917825" duration="6710000" />
       <workItem from="1645414769289" duration="21658000" />
       <workItem from="1645504346479" duration="14589000" />
+      <workItem from="1645592896316" duration="20111000" />
     </task>
     <task id="LOCAL-00001" summary="IM solved">
       <created>1645359666328</created>
@@ -187,6 +185,16 @@
           <line>43</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOJ/BOJ_1197_2.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOJ/BOJ_15686.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="37" />
@@ -200,7 +208,8 @@
     </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="map[start]" language="JAVA" />
+        <watch expression="arr[minIdx].get(i)[0]" language="JAVA" />
+        <watch expression="arr[minIdx].get(i)[1]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
