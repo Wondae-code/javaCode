@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="SWEA">
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1504.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_16637.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1713.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_21610.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/PRO_92334.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_17135.java" afterDir="false" />
+    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="class 도장깨기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsolved/BOJ_17135.java" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/BOJ_17135.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +45,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/inputs" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -69,37 +59,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BOJ_21610">
-    <configuration name="BOJ_1504" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_1504" />
+  <component name="RunManager" selected="애플리케이션.BOJ_17135">
+    <configuration name="BOJ_17135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_17135" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_16637" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_16637" />
+    <configuration name="SWEA_11315" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_11315" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_1713" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_1713" />
+    <configuration name="SWEA_1220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_1220" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_21610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SSAFY.BOJ_21610" />
+    <configuration name="SWEA_1859" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_1859" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PRO_92334" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PRO_92334" />
+    <configuration name="SWEA_7236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SWEA_7236" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.BOJ_21610" />
-        <item itemvalue="애플리케이션.BOJ_16637" />
-        <item itemvalue="애플리케이션.PRO_92334" />
-        <item itemvalue="애플리케이션.BOJ_1713" />
-        <item itemvalue="애플리케이션.BOJ_1504" />
+        <item itemvalue="애플리케이션.BOJ_17135" />
+        <item itemvalue="애플리케이션.SWEA_11315" />
+        <item itemvalue="애플리케이션.SWEA_7236" />
+        <item itemvalue="애플리케이션.SWEA_1220" />
+        <item itemvalue="애플리케이션.SWEA_1859" />
       </list>
     </recent_temporary>
   </component>
@@ -130,23 +120,11 @@
       <workItem from="1645592896316" duration="20292000" />
       <workItem from="1645710665282" duration="13171000" />
       <workItem from="1645856362522" duration="17988000" />
-      <workItem from="1645955158276" duration="8595000" />
-      <workItem from="1646006550304" duration="4985000" />
-      <workItem from="1646022105840" duration="31000" />
-      <workItem from="1646123562948" duration="6652000" />
-      <workItem from="1646292358592" duration="35000" />
-      <workItem from="1646308915339" duration="11843000" />
-      <workItem from="1646448735527" duration="4376000" />
-      <workItem from="1646656405268" duration="9423000" />
-      <workItem from="1646739191884" duration="5887000" />
-      <workItem from="1646915109041" duration="7757000" />
-      <workItem from="1647318831418" duration="232000" />
-      <workItem from="1647320368091" duration="11000" />
-      <workItem from="1647321894633" duration="55000" />
-      <workItem from="1647342046135" duration="6923000" />
-      <workItem from="1647438568673" duration="12731000" />
-      <workItem from="1647524187333" duration="850000" />
-      <workItem from="1647525661355" duration="1571000" />
+      <workItem from="1645955158276" duration="5167000" />
+      <workItem from="1647673888915" duration="375000" />
+      <workItem from="1647675086367" duration="2999000" />
+      <workItem from="1647679435948" duration="600000" />
+      <workItem from="1647680556052" duration="6738000" />
     </task>
     <task id="LOCAL-00001" summary="IM solved">
       <created>1645359666328</created>
@@ -162,28 +140,7 @@
       <option name="project" value="LOCAL" />
       <updated>1645626318109</updated>
     </task>
-    <task id="LOCAL-00003" summary="SWEA">
-      <created>1645969849595</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1645969849595</updated>
-    </task>
-    <task id="LOCAL-00004" summary="SWEA">
-      <created>1645970539386</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1645970539386</updated>
-    </task>
-    <task id="LOCAL-00005" summary="SWEA">
-      <created>1646743281572</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1646743281572</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,8 +160,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IM solved" />
     <MESSAGE value="BOJ Solved" />
-    <MESSAGE value="SWEA" />
-    <option name="LAST_COMMIT_MESSAGE" value="SWEA" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ Solved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -235,6 +191,11 @@
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/JO_1863.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/SWEA/SWEA_7465.java</url>
           <line>43</line>
           <option name="timeStamp" value="68" />
@@ -250,33 +211,38 @@
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/JO_1681.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/JO_1681.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/JO_1681.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/SWEA/SWEA_11315.java</url>
           <line>23</line>
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ/BOJ_2606.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="119" />
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_17135.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ/BOJ_20115.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="122" />
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_17135.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ/BOJ_1504.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ/BOJ_1713.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="127" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BOJ/BOJ_16637.java</url>
-          <line>122</line>
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_17135.java</url>
+          <line>48</line>
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
@@ -296,7 +262,7 @@
     </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="map[nr][nc]" language="JAVA" />
+        <watch expression="getDist(N+1, i, r, c)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
