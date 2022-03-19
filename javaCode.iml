@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SWEA" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/etc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/unsolved" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Programmers" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
