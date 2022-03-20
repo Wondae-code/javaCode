@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="class 도장깨기">
+    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="SWEA">
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_14500.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/unsolved/BOJ_17135.java" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/BOJ_17135.java" afterDir="false" />
     </list>
@@ -59,7 +60,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BOJ_17135">
+  <component name="RunManager" selected="애플리케이션.BOJ_14500">
+    <configuration name="BOJ_14500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_14500" />
+      <module name="javaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ_17135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ_17135" />
       <module name="javaCode" />
@@ -81,13 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_1859" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_1859" />
-      <module name="javaCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SWEA_7236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SWEA_7236" />
       <module name="javaCode" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BOJ_14500" />
         <item itemvalue="애플리케이션.BOJ_17135" />
         <item itemvalue="애플리케이션.SWEA_11315" />
         <item itemvalue="애플리케이션.SWEA_7236" />
         <item itemvalue="애플리케이션.SWEA_1220" />
-        <item itemvalue="애플리케이션.SWEA_1859" />
       </list>
     </recent_temporary>
   </component>
@@ -230,21 +231,6 @@
           <line>23</line>
           <option name="timeStamp" value="106" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_17135.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_17135.java</url>
-          <line>110</line>
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_17135.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="148" />
-        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="37" />
@@ -260,11 +246,6 @@
         <PinnedItemInfo parentTag="SWEA_1238$Node" memberName="depth" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="getDist(N+1, i, r, c)" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaCode$BOJ_14620.ic" NAME="BOJ_14620 커버리지 결과" MODIFIED="1645252075468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
