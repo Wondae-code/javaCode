@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="SWEA">
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_14500.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1600.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_18428.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_2206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_2636.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_9655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/PRO_77485.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsolved/BOJ_17135.java" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/BOJ_17135.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsolved/BOJ_14500.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/BOJ_14500.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsolved/BOJ_17135.java" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/BOJ_17135.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,37 +69,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BOJ_14500">
-    <configuration name="BOJ_14500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_14500" />
+  <component name="RunManager" selected="애플리케이션.BOJ_1149">
+    <configuration name="BOJ_1149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1149" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_17135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_17135" />
+    <configuration name="BOJ_1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1463" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_11315" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_11315" />
+    <configuration name="BOJ_1600" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1600" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_1220" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_1220" />
+    <configuration name="BOJ_1697" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1697" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SWEA_7236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SWEA_7236" />
+    <configuration name="BOJ_18428" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_18428" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.BOJ_14500" />
-        <item itemvalue="애플리케이션.BOJ_17135" />
-        <item itemvalue="애플리케이션.SWEA_11315" />
-        <item itemvalue="애플리케이션.SWEA_7236" />
-        <item itemvalue="애플리케이션.SWEA_1220" />
+        <item itemvalue="애플리케이션.BOJ_1149" />
+        <item itemvalue="애플리케이션.BOJ_1463" />
+        <item itemvalue="애플리케이션.BOJ_18428" />
+        <item itemvalue="애플리케이션.BOJ_1697" />
+        <item itemvalue="애플리케이션.BOJ_1600" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +135,11 @@
       <workItem from="1647675086367" duration="2999000" />
       <workItem from="1647679435948" duration="600000" />
       <workItem from="1647680556052" duration="6738000" />
+      <workItem from="1647837301656" duration="26000" />
+      <workItem from="1648476167216" duration="6216000" />
+      <workItem from="1648611423300" duration="16042000" />
+      <workItem from="1648714477276" duration="6080000" />
+      <workItem from="1648723706287" duration="10867000" />
     </task>
     <task id="LOCAL-00001" summary="IM solved">
       <created>1645359666328</created>
@@ -166,70 +180,95 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/BOJ/BOJ_14620.java</url>
           <line>35</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/etc/IM_practice/IM_practice02.java</url>
           <line>30</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/etc/IM_TEST.java</url>
           <line>14</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/SWEA/SWEA_1238.java</url>
           <line>33</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/unsolved/BOJ_2178.java</url>
           <line>21</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/unsolved/JO_1863.java</url>
           <line>22</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/SWEA/SWEA_7465.java</url>
           <line>43</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/BOJ/BOJ_1197_2.java</url>
           <line>45</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/BOJ/BOJ_15686.java</url>
           <line>37</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/unsolved/JO_1681.java</url>
           <line>40</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/unsolved/JO_1681.java</url>
           <line>59</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/unsolved/JO_1681.java</url>
           <line>34</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/SWEA/SWEA_11315.java</url>
           <line>23</line>
           <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_2206.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_2206.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_1600.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_1697.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_18428.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="127" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
