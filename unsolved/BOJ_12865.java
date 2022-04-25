@@ -20,13 +20,22 @@ public class BOJ_12865 {
             things[i] = new Thing(weight, value);
         }
         // DP에 사용할 배열
-        dp = new int[N][MaxWeight];
+        dp = new int[N+1][MaxWeight+1];
         // 처음부터 r개까지 모든 물건을 삺펴봄
-        for (int r = 0; r < N; r++) {
-            for (int c = 0; c < MaxWeight; c++) {
-
+        for (int r = 1; r <= N; r++) {
+            for (int c = 1; c <= MaxWeight; c++) {
+                // 물건을 못 넣는 경우
+                if(things[r-1].weight > c){
+                    dp[r][c] = dp[r-1][c];
+                }
+                // 물건을 넣는 경우
+                else{
+                    dp[r][c] = Math.max(dp[r-1][c], dp[r-1][c-things[r-1].weight] + things[r-1].value);
+                }
             }
         }
+
+        System.out.println(dp[N][MaxWeight]);
 
     }
 
