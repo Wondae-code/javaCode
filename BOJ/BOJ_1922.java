@@ -1,4 +1,4 @@
-// 프림 + 연결 리스트
+package SSAFY;// 프림 + 연결 리스트
 // 솔직히 크루스칼 잘 기억 안남..
 
 import java.io.BufferedReader;
