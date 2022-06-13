@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="temp">
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1922.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_20208.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_2156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_21738.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_7983.java" afterDir="false" />
+    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="problem added">
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_16888.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_16938.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_17086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_18231.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1915.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1916.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_20058.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsolved/BOJ_20208.java" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/BOJ_20208.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unsolved/BOJ_21738.java" beforeDir="false" afterPath="$PROJECT_DIR$/unsolved/BOJ_21738.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +54,6 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/inputs" />
-    <property name="project.structure.last.edited" value="모듈" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -59,6 +61,7 @@
       <recent name="$PROJECT_DIR$/inputs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Python\git\javaCode\inputs" />
       <recent name="C:\Users\Python\git\javaCode\SWEA_1859" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -66,37 +69,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.BOJ_2156">
-    <configuration name="BOJ_1922" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_1922" />
+  <component name="RunManager" selected="애플리케이션.BOJ_20058">
+    <configuration name="BOJ_1041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1041" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_20208" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_20208" />
+    <configuration name="BOJ_12865" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_12865" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_2156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_2156" />
+    <configuration name="BOJ_17086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_17086" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_21738" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_21738" />
+    <configuration name="BOJ_1916" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_1916" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_7983" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_7983" />
+    <configuration name="BOJ_20058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ_20058" />
       <module name="javaCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.BOJ_2156" />
-        <item itemvalue="애플리케이션.BOJ_21738" />
-        <item itemvalue="애플리케이션.BOJ_7983" />
-        <item itemvalue="애플리케이션.BOJ_1922" />
-        <item itemvalue="애플리케이션.BOJ_20208" />
+        <item itemvalue="애플리케이션.BOJ_20058" />
+        <item itemvalue="애플리케이션.BOJ_1916" />
+        <item itemvalue="애플리케이션.BOJ_1041" />
+        <item itemvalue="애플리케이션.BOJ_17086" />
+        <item itemvalue="애플리케이션.BOJ_12865" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +141,15 @@
       <workItem from="1648714477276" duration="6080000" />
       <workItem from="1648723706287" duration="11733000" />
       <workItem from="1648775214081" duration="627000" />
-      <workItem from="1652527975527" duration="18345000" />
+      <workItem from="1649042792672" duration="5576000" />
+      <workItem from="1649130144150" duration="17106000" />
+      <workItem from="1649204438681" duration="25270000" />
+      <workItem from="1649302972518" duration="13240000" />
+      <workItem from="1649380927458" duration="17126000" />
+      <workItem from="1649648461650" duration="32097000" />
+      <workItem from="1649752175714" duration="58000" />
+      <workItem from="1649763743240" duration="9211000" />
+      <workItem from="1655130012607" duration="21084000" />
     </task>
     <task id="LOCAL-00001" summary="IM solved">
       <created>1645359666328</created>
@@ -278,49 +289,69 @@
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/SWEA_4013.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="137" />
+          <url>file://$PROJECT_DIR$/SWEA/SWEA_5656.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="128" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/SWEA_4013.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="138" />
+          <url>file://$PROJECT_DIR$/BOJ/BOJ_17136.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_9935.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="147" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_18188.java</url>
-          <line>58</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_18188.java</url>
-          <line>107</line>
+          <url>file://$PROJECT_DIR$/SWEA/SWEA_2382.java</url>
+          <line>42</line>
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_7983.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="165" />
+          <url>file://$PROJECT_DIR$/BOJ/BOJ_17281.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_21738.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="179" />
+          <url>file://$PROJECT_DIR$/BOJ/BOJ_17143.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="197" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_21738.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="180" />
+          <url>file://$PROJECT_DIR$/BOJ/BOJ_17143.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="198" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/unsolved/BOJ_2156.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="181" />
+          <url>file://$PROJECT_DIR$/unsolved/SWEA_5607.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_1708.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_1708.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/SWEA_1019.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_17086.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_1041.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/unsolved/BOJ_1916.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="243" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
@@ -335,11 +366,16 @@
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="SWEA_1238$Node" memberName="depth" />
-        <PinnedItemInfo parentTag="BOJ_21738$Node" memberName="src" />
       </pinned-members>
     </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="check[4]" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaCode$BOJ_17143.ic" NAME="BOJ_17143 커버리지 결과" MODIFIED="1649389485944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/javaCode$BOJ_14620.ic" NAME="BOJ_14620 커버리지 결과" MODIFIED="1645252075468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
