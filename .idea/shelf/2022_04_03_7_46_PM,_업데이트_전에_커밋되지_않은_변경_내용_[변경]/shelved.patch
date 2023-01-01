@@ -1,0 +1,32 @@
+Index: unsolved/BOJ_14500.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/unsolved/BOJ_14500.java b/BOJ/BOJ_14500.java
+rename from unsolved/BOJ_14500.java
+rename to BOJ/BOJ_14500.java
+--- a/unsolved/BOJ_14500.java	
++++ b/BOJ/BOJ_14500.java	
+@@ -1,3 +1,5 @@
++package SSAFY;
++
+ import java.io.BufferedReader;
+ import java.io.IOException;
+ import java.io.InputStreamReader;
+Index: unsolved/BOJ_17135.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/unsolved/BOJ_17135.java b/BOJ/BOJ_17135.java
+rename from unsolved/BOJ_17135.java
+rename to BOJ/BOJ_17135.java
+--- a/unsolved/BOJ_17135.java	
++++ b/BOJ/BOJ_17135.java	
+@@ -1,3 +1,5 @@
++package SSAFY;
++
+ import java.io.BufferedReader;
+ import java.io.IOException;
+ import java.io.InputStreamReader;
