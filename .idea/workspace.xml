@@ -1,39 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="temp">
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1541.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1620.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1676.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1764.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1966.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_1978.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_2108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BOJ/BOJ_5430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/level1/가장_가까운_같은_글자.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/level1/크기가_작은_부분문자열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_10282.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1043.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_11279.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_11286.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_11724.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1245.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1629.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_16928.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1932.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_1967.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_5525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_7569.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_7576.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_7662.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unsolved/BOJ_9019.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="2c271e8a-d0b2-460c-8204-70ee1408b56e" name="변경" comment="01.01.23">
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/명예의_전당_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/문자열_나누기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/성격_유형_검사하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/숫자_문자열과_영단어.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/신규_아이디_추천.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/level1/없는_숫자_더하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="샘플 텍스트" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/inputs" />
     <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.0" />
@@ -94,30 +69,61 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.가장_가까운_같은_글자">
-    <configuration name="BOJ_1245" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_1245" />
+  <component name="RunManager" selected="애플리케이션.키패드_누르기">
+    <configuration name="키패드_누르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.키패드_누르기" />
       <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_1932" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_1932" />
+    <configuration name="신규_아이디_추천" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.신규_아이디_추천" />
       <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ_1967" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ_1967" />
+    <configuration name="명예의_전당_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.명예의_전당_1" />
       <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="크기가_작은_부분문자열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level1.크기가_작은_부분문자열" />
+    <configuration name="숫자_문자열과_영단어" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.숫자_문자열과_영단어" />
+      <module name="javaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="성격_유형_검사하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.성격_유형_검사하기" />
       <module name="javaCode" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.키패드_누르기" />
+        <item itemvalue="애플리케이션.신규_아이디_추천" />
+        <item itemvalue="애플리케이션.숫자_문자열과_영단어" />
         <item itemvalue="애플리케이션.가장_가까운_같은_글자" />
-        <item itemvalue="애플리케이션.크기가_작은_부분문자열" />
-        <item itemvalue="애플리케이션.BOJ_1967" />
-        <item itemvalue="애플리케이션.BOJ_1245" />
-        <item itemvalue="애플리케이션.BOJ_1932" />
+        <item itemvalue="애플리케이션.명예의_전당_1" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +221,9 @@
       <workItem from="1666445421441" duration="4861000" />
       <workItem from="1666610216317" duration="5667000" />
       <workItem from="1666792058746" duration="2507000" />
-      <workItem from="1672543393694" duration="4557000" />
+      <workItem from="1672543393694" duration="4669000" />
+      <workItem from="1672638653208" duration="7375000" />
+      <workItem from="1672721690417" duration="12240000" />
     </task>
     <task id="LOCAL-00001" summary="IM solved">
       <created>1645359666328</created>
@@ -252,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660477476643</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="01.01.23">
+      <created>1672562350136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672562350136</updated>
+    </task>
+    <task id="LOCAL-00007" summary="01.01.23">
+      <created>1672562364503</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672562364503</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +296,8 @@
     <MESSAGE value="BOJ Solved" />
     <MESSAGE value="problem added" />
     <MESSAGE value="temp" />
-    <option name="LAST_COMMIT_MESSAGE" value="temp" />
+    <MESSAGE value="01.01.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="01.01.23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -593,6 +616,26 @@
           <url>file://$PROJECT_DIR$/Programmers/level1/가장_가까운_같은_글자.java</url>
           <line>10</line>
           <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/level1/문자열_나누기.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="413" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/level1/명예의_전당_1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="414" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/level1/신규_아이디_추천.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/level1/키패드_누르기.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="421" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NullPointerException" package="java.lang" />
